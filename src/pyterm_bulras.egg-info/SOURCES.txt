@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/pyterm/__init__.py
+src/pyterm/main.py
+src/pyterm_bulras.egg-info/PKG-INFO
+src/pyterm_bulras.egg-info/SOURCES.txt
+src/pyterm_bulras.egg-info/dependency_links.txt
+src/pyterm_bulras.egg-info/top_level.txt
