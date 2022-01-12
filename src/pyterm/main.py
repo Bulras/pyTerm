@@ -11,7 +11,7 @@ class term():
             elif name == 'darwin':
                 system(f'echo -n -e "\033]0;{title}\007"')
         while True:
-            command = input(f"{getlogin}@{node}: ")
+            command = input(f"{getlogin()}@{node()}: ")
             system(command)
             if command == "exit" or command == "quit":
                 break
